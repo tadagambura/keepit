@@ -56,6 +56,13 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Next step | Monthly 'anything to return?' check |
 | Cadence | Weekly/event-driven |
 
+## Animation and tone
+
+**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+
+- The receipt files itself into a folder
+
+
 ## AI
 
 **None.** Not needed. Plain code does everything this app does.
