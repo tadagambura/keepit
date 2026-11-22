@@ -1,48 +1,77 @@
 # KeepIt: Spec
 
+**Receipts, returns and warranties, never lost** · #30 of 33 in the build order · Harder · Revenue potential: Medium · Home & Household · Source: New (Claude)
+
 ## One-liner
 
-Receipts, returns and warranties, never lost
+Snap a receipt and KeepIt remembers the return window and warranty expiry, reminds you before they run out, and keeps everything searchable for when something breaks.
 
 ## Problem / audience
 
-- Who it's for:
-- The problem it solves:
+- **Who it's for:** Anyone who buys electronics, appliances or clothes and loses receipts.
+- **The problem it solves:** Receipts fade and go missing, and return windows close before people act.
+- **Example:** A user's headphones break at 11 months; KeepIt finds the receipt and shows a month of warranty left.
 
 ## MVP features (ship with only these)
 
-1.
-2.
-3.
+1. Photo receipts with item, shop, price and date
+2. Return-window and warranty-expiry reminders
+3. Search by item or shop
+4. Categories
+5. Manual entry for online orders
 
 ## Not in MVP
 
--
+- Read receipt text automatically, on the device
+- Cloud backup (premium)
+- Manuals and serial numbers
 
 ## Monetisation
 
 | Model | Detail |
 |---|---|
-| Free tier | |
-| Paid | |
-| Ads | |
+| Free | Up to 20 receipts, with ads |
+| Premium | £1.99/month: unlimited, backup, auto-read |
+| Ads | Light |
 
-## Platform & stack
+Prices are starting points; test before committing.
 
-- Platform: (web/PWA first unless there's a reason not to)
-- Stack:
-- Data: (local-only if possible)
+## Retention: The Progression Loop
 
-## Growth engine hooks
+| Stage | Design |
+|---|---|
+| Cue | Return and warranty reminders |
+| Tiny win | Snap a receipt |
+| Progress | Money protected |
+| Share | Low |
+| Next step | Monthly 'anything to return?' check |
+| Cadence | Weekly/event-driven |
 
-- Shareable output (what users would post):
-- Content pillars:
+Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
+never wiped, at most one notification a day by default.
+
+## Platform & data
+
+- **Platform:** Expo app (camera); backup needs storage.
+- **Data:** On the device first; cloud backup costs money, so it's premium.
+- **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
+
+## Growth engine
+
+- **Content pillars:** Consumer rights (general info); Return windows; Warranty tips
+- **Shareable output:** Low
+
+## Risks
+
+Camera, image storage and backup costs. Consumer-rights content must be general and accurate.
 
 ## Launch checklist
 
+- [ ] Name checked on the App Store, Play Store and a trademark search
 - [ ] MVP features done and tested
-- [ ] Privacy policy + terms
+- [ ] Progression Loop wired (cue, tiny win, progress, milestone, next step)
+- [ ] Privacy policy and terms
 - [ ] Landing page
-- [ ] Analytics wired
+- [ ] Analytics wired (D1/D7/D30 retention)
 - [ ] Payments / ads wired
 - [ ] Added to growth-engine as an app config
