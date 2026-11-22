@@ -2,7 +2,7 @@
 
 **Receipts, returns and warranties, never lost**
 
-> #30 of 33 in the build order · Harder · Revenue potential: Medium · Home & Household
+> #22 of 33 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household
 
 ## What it is
 
@@ -55,6 +55,10 @@ Built on **The Progression Loop**, the portfolio's shared retention framework
 | Share | Low |
 | Next step | Monthly 'anything to return?' check |
 | Cadence | Weekly/event-driven |
+
+## AI
+
+**None.** Not needed. Plain code does everything this app does.
 
 ## Watch-outs
 
