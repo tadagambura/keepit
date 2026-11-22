@@ -50,11 +50,15 @@ Prices are starting points; test before committing. **Portfolio premium promise:
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
-## Animation and tone
+## Animation and tone: five signature animations
 
-**Calm.** Smooth, reassuring motion only: gentle ticks, numbers easing into place. No characters, jokes or drama.
+**Calm.** Gentle, kind humour and smooth motion: a stickman yawning after a shift, a fly escaping an empty pocket. No drama, nothing that adds stress.
 
-- The receipt files itself into a folder
+- Receipt snapped: it files itself into a folder and salutes
+- Return window closing: a tiny calendar taps its watch
+- Warranty saves the day: the receipt does a superhero landing
+- Search: the magnifying glass sniffs around like a bloodhound
+- Monthly tidy: the folder closes and takes a bow
 
 
 ## AI
