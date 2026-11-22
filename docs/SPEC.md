@@ -1,6 +1,6 @@
 # KeepIt: Spec
 
-**Receipts, returns and warranties, never lost** · #30 of 33 in the build order · Harder · Revenue potential: Medium · Home & Household · Source: New (Claude)
+**Receipts, returns and warranties, never lost** · #22 of 33 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household · Source: New (Claude)
 
 ## One-liner
 
@@ -50,10 +50,15 @@ Prices are starting points; test before committing.
 Follow the portfolio guardrails: no guilt-trip notifications, no fake urgency, progress is
 never wiped, at most one notification a day by default.
 
+## AI
+
+**None.** Not needed. Plain code does everything this app does. (Portfolio rule: plain code first, code does the maths,
+cheapest model, shared budget cap, premium-gated.)
+
 ## Platform & data
 
 - **Platform:** Expo app (camera); backup needs storage.
-- **Data:** On the device first; cloud backup costs money, so it's premium.
+- **Data:** On the device first; receipt photos are compressed. Cloud backup is a premium feature so storage costs are covered by the people who use it.
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
