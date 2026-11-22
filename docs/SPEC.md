@@ -34,7 +34,7 @@ Snap a receipt and KeepIt remembers the return window and warranty expiry, remin
 | Premium | £1.99/month: unlimited, backup, auto-read |
 | Ads | Light |
 
-Prices are starting points; test before committing.
+Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
 
 ## Retention: The Progression Loop
 
@@ -66,6 +66,7 @@ cheapest model, shared budget cap, premium-gated.)
 
 - **Platform:** Expo app (camera); backup needs storage.
 - **Data:** On the device first; receipt photos are compressed. Cloud backup is a premium feature so storage costs are covered by the people who use it.
+- **Backend:** None for the free version: everything lives on the phone. Premium backup and sync use the shared portfolio backend (see the master repo's HOSTING.md).
 - **Stack:** shared portfolio foundation (Expo, PostHog, RevenueCat, AdMob, shared Progression Loop module).
 
 ## Growth engine
