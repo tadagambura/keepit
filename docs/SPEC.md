@@ -1,6 +1,6 @@
 # KeepIt: Spec
 
-**Receipts, returns and warranties, never lost** · #22 of 33 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household · Source: New (Claude)
+**Receipts, returns and warranties, never lost** · #21 of 32 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household · Source: New (Claude)
 
 ## One-liner
 
