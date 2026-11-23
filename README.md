@@ -1,12 +1,12 @@
 # KeepIt
 
-**Receipts, returns and warranties, never lost**
+**Buy smarter, keep the receipts**
 
-> #21 of 31 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household
+> #13 of 16 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household
 
 ## What it is
 
-Snap a receipt and KeepIt remembers the return window and warranty expiry, reminds you before they run out, and keeps everything searchable for when something breaks.
+The purchase lifecycle in one app. Before you buy: cool-off wishlist ('still want it in 7 days?'), unit-price and cost-per-use maths. After you buy: snap the receipt, and KeepIt remembers return windows and warranty expiry (UK Consumer Rights Act: up to 6 years to claim), and tracks cost-per-use as you use things.
 
 ## Why it's in the portfolio
 
@@ -20,11 +20,11 @@ Anyone who buys electronics, appliances or clothes and loses receipts.
 
 ## Version one
 
-- Photo receipts with item, shop, price and date
-- Return-window and warranty-expiry reminders
-- Search by item or shop
-- Categories
-- Manual entry for online orders
+- Cool-off wishlist with 'still want it?' check-ins and a saved-by-not-buying total
+- Price-per-unit and cost-per-use calculators (also free SEO web pages)
+- Photo receipts with return-window and warranty reminders
+- Consumer-rights clock (UK): what you can still claim and for how long
+- Cost-per-use tracking for things you own
 
 **Example:** A user's headphones break at 11 months; KeepIt finds the receipt and shows a month of warranty left.
 
@@ -83,5 +83,5 @@ Planning. The build spec is in [`docs/SPEC.md`](docs/SPEC.md).
 
 ---
 
-Part of a portfolio of 31 small consumer apps that share one codebase, one retention module
+Part of a portfolio of 16 small consumer apps that share one codebase, one retention module
 and one marketing and upkeep system ([growth-maintenance-engine](https://github.com/tadagambura/growth-maintenance-engine)).
