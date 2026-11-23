@@ -31,7 +31,7 @@ The purchase lifecycle in one app. Before you buy: cool-off wishlist ('still wan
 | Model | Detail |
 |---|---|
 | Free | Up to 20 receipts, with ads |
-| Premium | £1.99/month: unlimited, backup, auto-read |
+| Premium | £24.99/year (shown first) or £3.49/month: unlimited, backup, auto-read |
 | Ads | Light |
 
 Prices are starting points; test before committing. **Portfolio premium promise:** free has ads; the moment you pay you get no ads, cloud backup and storage, and sync across your devices, plus this app's extras.
