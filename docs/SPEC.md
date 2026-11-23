@@ -1,6 +1,6 @@
 # KeepIt: Spec
 
-**Buy smarter, keep the receipts** · #13 of 16 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household · Source: Perplexity + ChatGPT (absorbs BuyOrBye)
+**Buy smarter, keep the receipts** · #12 of 15 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household · Source: Perplexity + ChatGPT (absorbs BuyOrBye)
 
 ## One-liner
 
