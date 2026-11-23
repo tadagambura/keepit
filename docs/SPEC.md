@@ -1,10 +1,10 @@
 # KeepIt: Spec
 
-**Receipts, returns and warranties, never lost** · #21 of 31 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household · Source: New (Claude)
+**Buy smarter, keep the receipts** · #13 of 16 · Wave 2: Recurring keepers · Used: Whenever you buy something · Harder · Revenue potential: Medium · Home & Household · Source: Perplexity + ChatGPT (absorbs BuyOrBye)
 
 ## One-liner
 
-Snap a receipt and KeepIt remembers the return window and warranty expiry, reminds you before they run out, and keeps everything searchable for when something breaks.
+The purchase lifecycle in one app. Before you buy: cool-off wishlist ('still want it in 7 days?'), unit-price and cost-per-use maths. After you buy: snap the receipt, and KeepIt remembers return windows and warranty expiry (UK Consumer Rights Act: up to 6 years to claim), and tracks cost-per-use as you use things.
 
 ## Problem / audience
 
@@ -14,11 +14,11 @@ Snap a receipt and KeepIt remembers the return window and warranty expiry, remin
 
 ## MVP features (ship with only these)
 
-1. Photo receipts with item, shop, price and date
-2. Return-window and warranty-expiry reminders
-3. Search by item or shop
-4. Categories
-5. Manual entry for online orders
+1. Cool-off wishlist with 'still want it?' check-ins and a saved-by-not-buying total
+2. Price-per-unit and cost-per-use calculators (also free SEO web pages)
+3. Photo receipts with return-window and warranty reminders
+4. Consumer-rights clock (UK): what you can still claim and for how long
+5. Cost-per-use tracking for things you own
 
 ## Not in MVP
 
